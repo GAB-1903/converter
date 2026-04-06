@@ -105,7 +105,7 @@ function App() {
   return (
     <main className="app-shell">
       <section className="converter-card" aria-label="Conversor de temperatura">
-        <p className="eyebrow">Aplicativo Colégio ECO - Gabriel</p>
+        <p className="eyebrow">Aplicativo Colégio ECO </p>
         <h1>Conversor de Temperatura</h1>
         <p className="intro">
           Converta entre Celsius, Fahrenheit e Kelvin com fórmulas corretas e
